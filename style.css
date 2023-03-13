@@ -13,7 +13,7 @@ body{
  
  .imagem {
    display: block;
-   margin: auto;
+/*    margin: auto; */
    max-width: 300px;
    padding-bottom: 30px;
  }
